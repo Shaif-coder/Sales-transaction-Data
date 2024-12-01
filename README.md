@@ -4,6 +4,7 @@ Hi Everyone, Hope you all will be well
 I recently completed a Power BI project focused on analysing sales data.
 
 Objective :-This project leverages Power BI to create a dynamic and insightful Sales Dashboard. 
+
 Data Overview :- Sales data
 
 Key Metrics :-
